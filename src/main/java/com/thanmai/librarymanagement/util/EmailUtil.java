@@ -1,0 +1,4 @@
+package com.thanmai.librarymanagement.util;
+
+public class EmailUtil {
+}
