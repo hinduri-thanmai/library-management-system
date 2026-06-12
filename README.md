@@ -42,3 +42,6 @@ A full-stack Library Management System built using Java, Spring Boot, MySQL, JPA
 * Docker deployment
 * Payment integration for fines
 * Analytics dashboard
+
+http://localhost:8080/swagger-ui/index.html
+Run project locally and access API docs here.
